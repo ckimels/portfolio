@@ -18,6 +18,7 @@ This Project was started to accomplish exploratory data analysis for a data set 
 <img width="245" height="316" alt="Screenshot 2026-05-17 115059" src="https://github.com/user-attachments/assets/81a6be24-91d1-4fcd-9cee-9e6b3a347f8e" />  
 
 ## Every record containing null values  
+*df[df.isnull().any(axis=1)]*
 <img width="1636" height="633" alt="Screenshot 2026-05-17 115106" src="https://github.com/user-attachments/assets/41dc6103-59e2-48d0-94fb-b5a8817a35c8" />  
 *Decided not to remove null values. Not all games have a Publisher, and Year column did not effect graphs.*  
 
