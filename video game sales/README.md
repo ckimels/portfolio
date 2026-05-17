@@ -7,16 +7,12 @@ This Project was started to accomplish exploratory data analysis for a data set 
 
 <img width="1057" height="412" alt="Screenshot 2026-05-17 115043" src="https://github.com/user-attachments/assets/1be302ea-9f52-4ec3-8553-0daef6043a52" />
 
-## Count reveals nulls or missing values
+## Non-null count and data types
 <img width="545" height="456" alt="Screenshot 2026-05-17 115052" src="https://github.com/user-attachments/assets/b37ff9ca-c3b6-4216-a349-015c743580d1" />
 
-Count nulls per column
+## Null count per column
 
 <img width="245" height="316" alt="Screenshot 2026-05-17 115059" src="https://github.com/user-attachments/assets/81a6be24-91d1-4fcd-9cee-9e6b3a347f8e" />
-
-Shows records with null values
-
-pd.set_option("display.max_rows", None) Line above allows to view all null records
 
 Decided not to remove null values. Not all games have a Publisher, and Year column did not effect graphs.
 
