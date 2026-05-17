@@ -8,6 +8,7 @@ This Project was started to accomplish exploratory data analysis for a data set 
 <img width="1057" height="412" alt="Screenshot 2026-05-17 115043" src="https://github.com/user-attachments/assets/1be302ea-9f52-4ec3-8553-0daef6043a52" />
 
 ## Non-null count and data types
+*Year and Publisher columns contain null values since their Non-Null Count is less than 16598*
 <img width="545" height="456" alt="Screenshot 2026-05-17 115052" src="https://github.com/user-attachments/assets/b37ff9ca-c3b6-4216-a349-015c743580d1" />
 
 ## Null count per column
