@@ -1,4 +1,4 @@
-### Video Game Sales  
+# Video Game Sales  
 The Data contains records of video game sales
 
 This Project was started to accomplish exploratory data analysis with a goal to explore the data, clean and prep as necessary, then find interesting insights and plot them.  
