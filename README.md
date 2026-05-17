@@ -5,4 +5,4 @@ an EDA project of video game sales data in Jupyter Notebook using Python
 PowerBI project where I explored NFL passing data and created interactive visuals  
   
 # classification and clustering.docx 
-An independent study I did in college of exploring machine learning with a focus of classification and clustering  
+An independent study at West Chester where I explored the foundations of machine learning with a focus of classification and clustering  
