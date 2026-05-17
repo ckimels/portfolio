@@ -1,3 +1,7 @@
+# Classification and Clustering
+
+An independent study at West Chester where I explored the foundations of machine learning with a focus of classification and clustering
+
 <img width="1345" height="1741" alt="Screenshot 2026-05-17 125311" src="https://github.com/user-attachments/assets/2f9bb1bc-028d-445c-9ce1-2f6764190fcc" />
 <img width="1349" height="1743" alt="Screenshot 2026-05-17 125322" src="https://github.com/user-attachments/assets/9e9da8f0-643b-4fc3-97f7-f4c036068d2e" />
 <img width="1347" height="1744" alt="Screenshot 2026-05-17 125328" src="https://github.com/user-attachments/assets/258e7276-ca7c-4a2c-aa5d-012d6c78bb61" />
