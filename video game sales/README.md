@@ -34,6 +34,7 @@ This Project was started to accomplish exploratory data analysis for a data set 
 
 ## Number of records per year
 <img width="1670" height="682" alt="Screenshot 2026-05-17 115137" src="https://github.com/user-attachments/assets/818355e0-1e11-41bd-a445-52273d6eb057" />  
+** Large ammount of records between 2000-2010*
 
 ## Global Sales by Platform (Stacked by Region)  
 <img width="1670" height="715" alt="Screenshot 2026-05-17 115146" src="https://github.com/user-attachments/assets/7f15ee05-644e-4304-b86c-926a3f0922c4" />  
