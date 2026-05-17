@@ -1,4 +1,7 @@
-This Project was started to accomplish exploratory data analysis for a data set of video game sales. The goal is to explore the data, clean and prep as necessary, then find interesting insights and plot them.
+### Video Game Sales  
+The Data contains records of video game sales
+
+This Project was started to accomplish exploratory data analysis with a goal to explore the data, clean and prep as necessary, then find interesting insights and plot them.  
 
 ## First 20 records
 *df.head(20)*  
