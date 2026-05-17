@@ -22,14 +22,12 @@ This Project was started to accomplish exploratory data analysis for a data set 
 *Decided not to remove null values. Not all games have a Publisher, and Year column did not effect graphs.*  
 
 ## Sales distribution by region  
+<img width="1267" height="723" alt="Screenshot 2026-05-17 115116" src="https://github.com/user-attachments/assets/cb8b9136-d34f-45eb-9364-77dc83c123af" />  
 *NA makes up nearly half of all video game sales*  
 
-<img width="1267" height="723" alt="Screenshot 2026-05-17 115116" src="https://github.com/user-attachments/assets/cb8b9136-d34f-45eb-9364-77dc83c123af" />  
-
 ## Sales over time by Region  
-*Video Game sales had exponential growth in NA*  
-
 <img width="1570" height="879" alt="Screenshot 2026-05-17 115123" src="https://github.com/user-attachments/assets/f923ee9d-653d-44fa-8740-7dd752fc3998" />  
+*Video Game sales had exponential growth in NA*  
 
 <img width="750" height="1057" alt="Screenshot 2026-05-17 115128" src="https://github.com/user-attachments/assets/0efcb7a8-1c63-4896-b165-37c4a69530e5" />  
 
