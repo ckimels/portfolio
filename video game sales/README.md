@@ -27,9 +27,11 @@ This Project was started to accomplish exploratory data analysis for a data set 
 
 ## Sales over time by Region  
 <img width="1570" height="879" alt="Screenshot 2026-05-17 115123" src="https://github.com/user-attachments/assets/f923ee9d-653d-44fa-8740-7dd752fc3998" />  
+
 *Video Game sales had exponential growth in NA*  
 ## Count per year
 <img width="750" height="1057" alt="Screenshot 2026-05-17 115128" src="https://github.com/user-attachments/assets/0efcb7a8-1c63-4896-b165-37c4a69530e5" />  
+
 ## Number of records per year
 <img width="1670" height="682" alt="Screenshot 2026-05-17 115137" src="https://github.com/user-attachments/assets/818355e0-1e11-41bd-a445-52273d6eb057" />  
 
@@ -38,13 +40,3 @@ This Project was started to accomplish exploratory data analysis for a data set 
 
 *Xbox consoles (X360, XB, XOne) do not sell well in Japan*  
 *PC Sales are also almost non-existent in Japan*  
-
-
-
-
-
-
-
-
-
-
