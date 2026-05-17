@@ -1,4 +1,4 @@
-video game sales: an EDA project in Jupyter Notebook using Python of video game sales data  
+video game sales: an EDA project of video game sales data in Jupyter Notebook using Python  
   
 nfl2023passing.pbix: PowerBI project where I explored NFL passing data and created interactive visuals
   
