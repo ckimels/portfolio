@@ -1,13 +1,15 @@
-# Classification and Clustering
-An independent study at West Chester where I explored the foundations of machine learning with a focus of classification and clustering  
+# Classification and Clustering  
 
+Independent study completed at West Chester University focused on foundational machine learning concepts, with an emphasis on classification and clustering techniques.  
 
-# NFL 2023 Passing
-PowerBI project where I explored NFL passing data and created interactive visuals
-  
+# NFL 2023 Passing  
+
+Microsoft Power BI project analyzing 2023 NFL passing statistics through interactive dashboards and data visualizations.  
+
 # School Testing Scores  
-PowerBI project where I did ETL on student test scores and created an insightful dashboard  
 
-# Video Game Sales
-an EDA project of video game sales data in Jupyter Notebook using Python  
-  
+Data analytics project using Microsoft Power BI to perform ETL processes on student testing data and develop an informative performance dashboard.  
+
+# Video Game Sales  
+
+Exploratory Data Analysis (EDA) project examining video game sales trends using Python within Jupyter Notebook.  
