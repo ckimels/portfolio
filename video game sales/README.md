@@ -13,7 +13,7 @@ This Project was started to accomplish exploratory data analysis for a data set 
 <img width="545" height="456" alt="Screenshot 2026-05-17 115052" src="https://github.com/user-attachments/assets/b37ff9ca-c3b6-4216-a349-015c743580d1" />
 
 ## Null count per column
-
+*df.info()*
 <img width="245" height="316" alt="Screenshot 2026-05-17 115059" src="https://github.com/user-attachments/assets/81a6be24-91d1-4fcd-9cee-9e6b3a347f8e" />
 
 ## Every record containing null values
