@@ -5,7 +5,7 @@ This Project was started to accomplish exploratory data analysis for a data set 
 <img width="1581" height="946" alt="Screenshot 2026-05-17 114959" src="https://github.com/user-attachments/assets/93adf1bf-b24e-429b-addd-cfdba479ddbd" />
 
 ## Descriptive statistics for DataFrame
-
+*df.describe()*
 <img width="1057" height="412" alt="Screenshot 2026-05-17 115043" src="https://github.com/user-attachments/assets/1be302ea-9f52-4ec3-8553-0daef6043a52" />
 
 ## Non-null count and data types
